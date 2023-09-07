@@ -78,10 +78,10 @@ hr{
     background-color: transparent;
 }
 
-.span-total{
-    font-size: larger;
+.div-total{
+    align-self: center;
 }
-.btn-submit{
-    width: 100%;
-    
+
+.texto-total{
+    font-size: larger;
 }

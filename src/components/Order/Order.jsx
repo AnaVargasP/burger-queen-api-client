@@ -122,18 +122,14 @@ const handleSubmitOrder = async (e) => {
         ))}
       </div>
 
-      <div className="total">
-        <p>
-          Total  <span id="total" className="span-total">${total}</span>
-        </p>
-        <div className="btn-submit"> 
-          <Buttons 
+      <div className="div-total">
+        <span id="total" className="texto-total"> Total ${total}</span>
+      </div>
+
+        <Buttons 
         type="submit" 
         tag="Submit"
         />
-        </div>
-       
-      </div>
 
     </form>
   </section> 
