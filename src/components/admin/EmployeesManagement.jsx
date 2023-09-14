@@ -46,6 +46,8 @@ function EmployeesManagement() {
     console.log(event.target.value);
     setPassword(event.target.value);
   };
+
+  
   const fetchUsers = async () => {
     try {
       const response = await getUsers();
