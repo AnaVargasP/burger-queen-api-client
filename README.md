@@ -1,4 +1,9 @@
+<p  align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ9U91vTOAhQbErmTe2Nl7ghcFv6SmVxMREcLYGo3TkKS-F5peVNT7m566FjCgzF8DAVZQ_uDZ8WFaib_DmRsb5WP4Ph5jbxOJPBdAAe2JuKXfYNhl1HDrm3MsaJ6J9N7X2BK58qLKhmTQHMIgvHuRTOehqXAWQIseO5DWY2JkygMQJBCF95BazyGLbp0/s1308/Sin%20t%C3%ADtulo.png "  />
+</p>
+
 # Burger Queen (API Client)
+
 Un pequeño restaurante de hamburguesas en crecimiento requiere un sistema que les permita tomar pedidos a través de tabletas y enviarlos a la cocina de manera organizada y eficiente. La aplicación diseñada cumple con esta funcionalidad al proporcionar las siguientes capacidades:
 
 - El administrador puede gestionar usuarios y productos, lo que le permite mantener un control completo sobre el sistema.
