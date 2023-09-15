@@ -1,10 +1,13 @@
-<p  align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ9U91vTOAhQbErmTe2Nl7ghcFv6SmVxMREcLYGo3TkKS-F5peVNT7m566FjCgzF8DAVZQ_uDZ8WFaib_DmRsb5WP4Ph5jbxOJPBdAAe2JuKXfYNhl1HDrm3MsaJ6J9N7X2BK58qLKhmTQHMIgvHuRTOehqXAWQIseO5DWY2JkygMQJBCF95BazyGLbp0/s1308/Sin%20t%C3%ADtulo.png "  />
-</p>
 
 # Burger Queen (API Client)
 
-Un pequeño restaurante de hamburguesas en crecimiento requiere un sistema que les permita tomar pedidos a través de tabletas y enviarlos a la cocina de manera organizada y eficiente. La aplicación diseñada cumple con esta funcionalidad al proporcionar las siguientes capacidades:
+<p  align="center">
+  <img src="./src/assets/fondo-readme.png"  />
+</p>
+
+
+
+Es un sistema de gestión de pedidos diseñado para restaurantes de comida rápida, especialmente enfocado en hamburgueserías. Burger Queen simplifica el proceso de toma de pedidos y la gestión de la cocina, mejorando la eficiencia y la experiencia del cliente.
 
 - El administrador puede gestionar usuarios y productos, lo que le permite mantener un control completo sobre el sistema.
 
@@ -14,43 +17,10 @@ Un pequeño restaurante de hamburguesas en crecimiento requiere un sistema que l
 
 Es importante destacar que esta aplicación ha sido desarrollada utilizando React, lo que garantiza una experiencia de usuario moderna y receptiva.
 
-Esta es la información entregada por el cliente:
 
-> Somos **Burguer Queen**, una cadena de comida 24hrs.
->
-> Nuestra propuesta de servicio 24hrs ha tenido muy buena acogida y, para
-> seguir creciendo, necesitamos un sistema que nos ayude a tomar los pedidos de
-> nuestrxs clientxs.
->
-> Tenemos 2 menús: uno muy sencillo para el desayuno:
->
-> | Ítem                      |Precio $|
-> |---------------------------|------|
-> | Café americano            |    5 |
-> | Café con leche            |    7 |
-> | Sandwich de jamón y queso |   10 |
-> | Jugo de frutas natural    |    7 |
->
-> Y otro menú para el resto del día:
->
-> | Ítem                      |Precio|
-> |---------------------------|------|
-> |**Hamburguesas**           |   **$**   |
-> |Hamburguesa simple         |    10|
-> |Hamburguesa doble          |    15|
-> |**Acompañamientos**        |   **$**   |
-> |Papas fritas               |     5|
-> |Aros de cebolla            |     5|
-> |**Para tomar**             |   **$**   |
-> |Agua 500ml                 |     5|
-> |Agua 750ml                 |     7|
-> |Bebida/gaseosa 500ml       |     7|
-> |Bebida/gaseosa 750ml       |     10|
->
-> Nuestrxs clientxs son bastante indecisos, por lo que es muy común que cambien
-> el pedido varias veces antes de finalizarlo.
 
 ## Diseño UX
+
 
 **Waiter**
 
@@ -79,7 +49,15 @@ Esta es la información entregada por el cliente:
 </p>
 
 
+Para interactuar con el prototipo del proyecto ingresa al siguiente link:
+
+https://www.figma.com/proto/d0juL5WEAdO2JKI2t4ApPl/Untitled?type=design&node-id=384-225&t=OyjbAmDiCkG6pbOw-0&scaling=scale-down&page-id=8%3A496&starting-point-node-id=384%3A225
+
 ## Historias de usuario
+
+
+El proyecto se desarrolló de acuerdo con las historias de usuarios planteadas a continuación 
+
 
 #### [Historia de usuario 1] Mesero/a debe poder ingresar al sistema, si el admin ya le ha asignado credenciales
 
@@ -115,6 +93,7 @@ Lo que debe ocurrir para que se satisfagan las necesidades del usuario
 * Se ve y funciona bien en una _tablet_
 
 ***
+
 
 #### [Historia de usuario 3] Jefe de cocina debe ver los pedidos
 
@@ -178,15 +157,15 @@ La página se encuentrea desplegada en Vercel  →
 
 Para ingresar existen los siguientes usuarios: 
 Admin 
-- correo: grace.hopper@systers.xyz
+- correo: admin@mail.com
 - contraseña: 123456
 
 Waiter
-- correo: lola@mail.com 
-- contraseña: 12345
+- correo: waiter@mail.com 
+- contraseña: 123456
 
 Chef 
-- correo: cheff@mail.com 
-- contraseña: 12345
+- correo: chef@mail.com 
+- contraseña: 123456
 
 
